@@ -1,0 +1,16 @@
+{
+  "name": "dashing",
+  "description": "dashing",
+  "author": "<Put your name here>",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "nuvo-dashing-js": "~0.1.11",
+    "review-times": "^2.1.0"
+  },
+  "engine": "node >= 0.10",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js"
+}
